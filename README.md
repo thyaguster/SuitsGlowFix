@@ -6,7 +6,7 @@ Converts _EmissiveColor values to "1, 1, 1, 1" or to "1.0, 1.0, 1.0, 1.0".
 
 📥 How to Use (Very Easy)
 
-Download and extract the tool to where your .json files are.
+Download and extract the tool to where your .json files are. (Usually \BepInEx\plugins\moresuits\advanced)
 
 Double-Click GlowFix_Tool.bat
 
@@ -51,5 +51,6 @@ Credit is appreciated but not required.
 ❤️ Final Notes
 
 If your glow suit doesn’t glow — this fixes it.
+
 
 Happy haunting 👻✨
